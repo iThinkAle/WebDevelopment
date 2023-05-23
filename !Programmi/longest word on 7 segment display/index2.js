@@ -4,6 +4,7 @@ let words = dictionary.split(/\s+/)
 let longestword = ""
 let badletters = /[gkmqvwxy]/
 
+
 for(let testWord of words){
 
     if(testWord.length <= longestword.length){

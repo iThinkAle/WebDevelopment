@@ -1,0 +1,29 @@
+/*Counter program P.P start*/
+
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    font-family: Minecraft, serif;
+}
+
+#decreaseButton{
+    align-self: center;
+    font-size: 25px;
+    background-size: 25px;
+}
+
+#increaseButton{
+    align-self: center;
+    font-size: 25px;
+    background-size: 25px;
+}
+
+#resetButton{
+    align-self: center;
+    font-size: 25px;
+    background-size: 25px;
+}
+
+/*Counter program P.P finish*/
+

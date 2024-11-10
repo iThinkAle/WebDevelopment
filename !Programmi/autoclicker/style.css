@@ -1,0 +1,43 @@
+.container {
+    display: grid;
+    place-items: center;
+}
+
+#startButton{
+    align-self: center;
+    text-align: center;
+    font-size: 60px;
+    margin-right: 25px;
+}
+
+#stopButton{
+    align-self: center;
+    text-align: center;
+    font-size: 60px;
+}
+
+#mouseButton{
+    font-size: 25px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+#milliseconds{
+    width: 100px;
+    height: 15px;
+}
+
+#seconds{
+    width: 100px;
+    height: 15px;
+}
+
+#minutes{
+    width: 100px;
+    height: 15px;
+}
+
+#hours{
+    width: 100px;
+    height: 15px;
+}
